@@ -1,0 +1,8 @@
+.bundle
+.DS_Store
+.rvmrc
+.sass-cache
+.xml
+.idea/vcs.xml
+
+.idea/workspace.xml
